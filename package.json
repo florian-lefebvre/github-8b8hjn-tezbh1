@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^5.5.4",
-    "astro": "^4.16.7"
+    "astro": "^0.0.0-env-race-condition-20241114151936"
   }
 }
